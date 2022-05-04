@@ -1,3 +1,5 @@
+# simple hello python app for begginers by @ilia yazdi
+
 
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
